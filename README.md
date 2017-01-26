@@ -8,11 +8,4 @@ Oliv and Jerem
 *   Green
 *   Blue
 
-*** Code Mardown ***
-*********************
-
-| Ingrédients   |     Ordre       |   Quantité |
-| ------------- |: -------------: | ---------: |
-| Tomate      	|        1        |      20g   |
-| Salade       	|        2        |      10g   |
-| Oignon      	|        3        |      10g   |
+[![TOTO](http://img.youtube.com/vi/BwIqw5-yFjI/0.jpg)](https://www.youtube.com/watch?v=BwIqw5-yFjI)
