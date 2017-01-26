@@ -11,4 +11,8 @@ OM
 
 Salut c'est Aurélien !! 
 
+<<<<<<< HEAD
 conflict1
+=======
+conflict2
+>>>>>>> conflict2
